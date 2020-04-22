@@ -12,7 +12,7 @@
   "author": "kilik52 <kilik52@outlook.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/enteve/semanticdb-common-lib.git"
+    "url": "https://github.com/kilik52/semanticdb-common-lib.git"
   },
   "license": "MIT",
   "engines": {
