@@ -1,6 +1,6 @@
 {
   "name": "semanticdb-common-lib",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "keywords": [],
   "main": "dist/semanticdb-common-lib.umd.js",
@@ -9,7 +9,7 @@
   "files": [
     "dist"
   ],
-  "author": "kilik52 <kilik52@hotmail.com>",
+  "author": "kilik52 <kilik52@outlook.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/kilik52/semanticdb-common-lib.git"
@@ -106,7 +106,7 @@
     "rollup-plugin-node-resolve": "^3.4.0",
     "rollup-plugin-sourcemaps": "^0.4.2",
     "rollup-plugin-typescript2": "^0.18.0",
-    "semantic-release": "^15.9.16",
+    "semantic-release": "^17.0.7",
     "shelljs": "^0.8.3",
     "travis-deploy-once": "^5.0.9",
     "ts-jest": "^23.10.2",
